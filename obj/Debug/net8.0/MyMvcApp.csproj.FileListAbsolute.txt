@@ -108,3 +108,4 @@ D:\Ki thuat lap trinh\MyMvcApp\obj\Debug\net8.0\refint\MyMvcApp.dll
 D:\Ki thuat lap trinh\MyMvcApp\obj\Debug\net8.0\MyMvcApp.pdb
 D:\Ki thuat lap trinh\MyMvcApp\obj\Debug\net8.0\MyMvcApp.genruntimeconfig.cache
 D:\Ki thuat lap trinh\MyMvcApp\obj\Debug\net8.0\ref\MyMvcApp.dll
+D:\Ki thuat lap trinh\MyMvcApp\obj\Debug\net8.0\MyMvcApp.sourcelink.json
